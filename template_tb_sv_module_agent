@@ -58,7 +58,7 @@ package _T_MODULE_T__sim_pkg;
 
         task run();
             test();
-            $finish;
+            $stop;
         endtask
 
         task test();

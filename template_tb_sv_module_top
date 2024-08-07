@@ -19,7 +19,7 @@
 */
 
 import util_pkg::*;
-import top_sim_pkg::*;
+import _T_MODULE_T__sim_pkg::*;
 
 module tb__T_MODULE_T_;
 
